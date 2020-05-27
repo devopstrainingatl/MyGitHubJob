@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Class. This is github webhook test</h2>
+<h2>Hi Class,We are testing our sonarQube</h2>
 </body>
 </html>
